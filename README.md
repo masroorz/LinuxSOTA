@@ -6,7 +6,7 @@ SOTA stands for State Of The Art
 What's special about this Linux Distro?
 
 - Based on Ubuntu kernel
-- Best beautiful graphics similar to Mac OS
+- Beautiful graphics similar to Mac OS
 - Super fast, it only requires 4GB RAM, 20 GB Storage, Intel/AMD quad core
 
 ======================================================================================
