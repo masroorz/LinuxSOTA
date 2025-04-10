@@ -9,6 +9,8 @@ What's special about this Linux Distro?
 - Beautiful graphics similar to Mac OS
 - Super fast, it only requires 4GB RAM, 20 GB Storage, Intel/AMD quad core
 - Thousands of opensource application from the app store
+- Secure Brave Browser as the default browser
+- UFW : uncomplicated firewall enabled by default
 
 ======================================================================================
 
