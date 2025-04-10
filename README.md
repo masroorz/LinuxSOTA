@@ -8,6 +8,7 @@ What's special about this Linux Distro?
 - Based on Ubuntu kernel
 - Beautiful graphics similar to Mac OS
 - Super fast, it only requires 4GB RAM, 20 GB Storage, Intel/AMD quad core
+- Thousands of opensource application from the app store
 
 ======================================================================================
 
