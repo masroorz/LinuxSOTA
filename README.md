@@ -1,4 +1,4 @@
-# Linux SOTA
+# Linux SOTA  -- coming soon!
 
 What is SOTA?
 SOTA stands for State Of The Art 
